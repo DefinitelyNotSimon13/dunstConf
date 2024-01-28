@@ -1,1 +1,1 @@
-Those are my basic dunst config files, inspired by the catppucchin theme
+https://github.com/DefinitelyNotSimon13/Catppuccin-Dotfiles
